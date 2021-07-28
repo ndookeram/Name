@@ -1,5 +1,3 @@
-#Set working directory
-setwd("C:/Users/ndook/OneDrive/Desktop")
 
 if(!require(caret)) install.packages("caret", repos = "http://cran.us.r-project.org")
 if(!require(ggplot2)) install.packages("ggplot2", repos = "http://cran.us.r-project.org")
